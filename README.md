@@ -1,4 +1,4 @@
-# Teste para Inovall
+# Teste
 
 ## Como baixar e utilizar esse projeto
 1- Extraia na pasta do servidor;
